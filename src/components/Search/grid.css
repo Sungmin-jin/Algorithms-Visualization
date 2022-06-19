@@ -1,0 +1,27 @@
+.path-page {
+  display: flex;
+}
+
+.grid {
+  text-align: center;
+  display: flex;
+  position: fixed;
+  margin-top: 430px;
+  margin-left: 49%;
+  transform: translate(-50%, -50%);
+}
+
+.node {
+  width: 40px;
+  height: 40px;
+  outline: 1px solid rgb(0, 0, 0);
+  display: grid;
+}
+
+.button-group {
+  display: flex;
+  padding-left: 38.5%;
+  padding-top: 190px;
+  justify-content: center;
+  position: absolute;
+}

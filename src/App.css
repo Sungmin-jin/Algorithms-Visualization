@@ -1,0 +1,23 @@
+* {
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+html,
+body,
+#root,
+main {
+  height: 100%;
+  overflow: hidden;
+}
