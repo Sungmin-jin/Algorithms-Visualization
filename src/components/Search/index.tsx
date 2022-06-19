@@ -2,7 +2,7 @@ import React from 'react';
 import './grid.css';
 import { bfsAlgorithm } from './bfs';
 import { dfsAlgorithm } from './dfs';
-import Button from '@mui/material/Button';
+import { Button } from '@material-ui/core';
 import Cell from './cell';
 
 const ROW_SIZE = 10;
